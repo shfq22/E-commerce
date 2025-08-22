@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Website  
 
-[![GitHub repo]](https://github.com/shfq22/E-commerce)  
+[GitHub repo](https://github.com/shfq22/E-commerce)  
 
 A modern **E-Commerce Website** built with **React** ⚛️.  
 Users can browse products, view details, add items to the cart, and proceed to checkout.  
